@@ -1,130 +1,91 @@
-# AI Automation Engineer building commerce and industrial automation systems
+<h1 align="center">E. Habib</h1>
 
-I design AI-powered platforms that turn messy business workflows into scalable software products.
+<p align="center">
+  <strong>AI Automation Engineer building e-commerce intelligence and industrial workflow systems.</strong>
+</p>
 
-**AI Automation Engineer** | **E-commerce Systems Builder** | **Full-Stack Developer**
+<p align="center">
+  <a href="https://github.com/bvbvbv54/MarketForge-AI"><img src="https://img.shields.io/badge/Focus-AI%20Commerce%20Automation-0f766e" alt="AI Commerce Automation"></a>
+  <a href="https://github.com/MAD-AUTOMOTIVES"><img src="https://img.shields.io/badge/Industrial-MAD%20Automotives-1d4ed8" alt="MAD Automotives"></a>
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Docker-111827" alt="Stack">
+</p>
 
-[![AI Automation](https://img.shields.io/badge/AI-Automation-111827)](#)
-[![E-commerce](https://img.shields.io/badge/E--commerce-Systems-0f766e)](#)
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Product%20Workflows-1d4ed8)](#)
-[![Cloud](https://img.shields.io/badge/Cloud-Docker%20%7C%20PostgreSQL%20%7C%20Redis-7c2d12)](#)
+I build production-grade AI systems that help businesses automate product research, product content, image workflows, catalog operations, and internal decision-making.
 
-## About Me
+My work sits at the intersection of **AI automation**, **e-commerce systems**, **computer vision**, and **full-stack software engineering**.
 
-I build production-grade AI applications that combine software engineering, data processing, and business automation.
+## Featured Product Work
 
-My work focuses on practical systems: e-commerce intelligence platforms, product image automation, web scraping pipelines, backend APIs, cloud deployments, and full-stack dashboards that help businesses operate faster.
-
-I am especially interested in AI systems that create measurable business value: faster product research, cleaner catalogs, better product images, and automated internal workflows.
-
-## Featured Work
-
-| Project | Positioning | What It Shows |
+| Project | What It Is | Business Value |
 | --- | --- | --- |
-| **MarketForge AI** | AI commerce intelligence platform | Product research, keyword intelligence, AI listings, image strategy, export workflows |
-| **MAD** | AI-powered automotive commerce platform | Industrial e-commerce, catalog automation, B2B workflows, AI image processing |
-| **CTF Walkthroughs** | Security learning notes | Methodical enumeration, writeup discipline, security awareness |
+| [MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI) | AI commerce intelligence platform | Helps sellers research products, analyze demand, plan visuals, generate listing content, and prepare export-ready product packages |
+| [MAD](https://github.com/MAD-AUTOMOTIVES/MAD) | AI-powered automotive commerce platform | Helps an automotive lighting manufacturer manage catalog operations, B2B workflows, product images, and digital commerce |
+| [CTF Walkthroughs](https://github.com/bvbvbv54/ctf-walkthrough) | Security learning notes | Shows structured enumeration, technical reporting, and security awareness |
 
 ## What I Build
 
 ### AI Automation
 
-- AI workflows for business operations.
-- Intelligent processing pipelines.
-- Computer vision and image automation.
-- AI-assisted content and asset generation.
+- AI-assisted business workflows.
+- Product image processing and generation.
+- Computer vision pipelines.
+- AI content and metadata generation.
+- Intelligent background processing systems.
 
 ### E-commerce Intelligence
 
-- Product research systems.
-- Market and competitor analysis.
-- Keyword intelligence workflows.
-- AI-generated product content.
-- Image automation for product listings and marketing.
+- Product research and opportunity scoring.
+- Keyword and competitor analysis.
+- Listing automation for marketplaces.
+- Product package exports for selling channels.
+- Regional audience targeting workflows.
 
 ### Software Engineering
 
-- Backend systems and APIs.
-- Full-stack web applications.
-- Cloud-ready infrastructure.
-- Worker pipelines and asynchronous processing.
-- Data-driven dashboards for internal teams.
+- Backend APIs and worker systems.
+- Full-stack dashboards.
+- Cloud-ready deployments.
+- PostgreSQL and Redis-backed applications.
+- Dockerized production environments.
 
-## Featured Projects
+## Technology Stack
 
-### MAD
+| Area | Tools |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript |
+| Backend | FastAPI, Node.js, REST APIs, Celery workers |
+| Frontend | Next.js, React, dashboard UI |
+| AI | LLM APIs, computer vision, image generation, automation pipelines |
+| Data & Infra | PostgreSQL, Redis, Docker, cloud storage |
 
-**AI-Powered Automotive Commerce Platform**
+## Current Focus
 
-MAD is an industrial automotive e-commerce platform built with [MAD-AUTOMOTIVES](https://github.com/MAD-AUTOMOTIVES), an automotive lighting manufacturer. It brings together a webshop, B2B product workflows, AI-assisted image processing, product publishing automation, and digital asset management.
-
-The business value: help automotive manufacturers manage complex catalogs, improve product presentation, and move from manual product operations to a structured digital commerce platform.
-
-**Focus areas:** automotive e-commerce, AI image processing, catalog automation, B2B workflows, cloud deployment.
-
-### MarketForge AI
-
-**AI Commerce Intelligence Platform**
-
-MarketForge AI helps e-commerce sellers research products, understand demand, analyze competitors, generate optimized content, plan premium product visuals, and prepare export-ready product packages.
-
-The business value: help sellers answer the question, **"Should I spend money importing this product?"** before they commit inventory, marketing budget, or operational time.
-
-**Focus areas:** product intelligence, keyword research, AI product images, competitor analysis, product opportunity scoring, e-commerce automation.
-
-### CTF Walkthroughs
-
-**Security Learning Notes**
-
-A small curated repository of CTF notes focused on methodology: enumeration, validation, privilege escalation reasoning, and clear reporting. It supports my engineering work by showing security awareness without distracting from the main AI automation portfolio.
-
-## Tech Stack
-
-### Languages
-
-Python, TypeScript, JavaScript
-
-### Backend
-
-FastAPI, Node.js, REST APIs, background workers
-
-### Frontend
-
-Next.js, React, dashboard interfaces
-
-### AI
-
-Large Language Models, Computer Vision, Image Generation, AI APIs
-
-### Infrastructure
-
-Docker, PostgreSQL, Redis, Cloud Storage
+- Turning MarketForge AI into a stronger AI commerce SaaS product.
+- Building public portfolio showcases for production-grade private systems.
+- Improving product demos, screenshots, and technical case studies.
+- Keeping proprietary code private while making product value visible.
 
 ## My Approach
 
-I do not just build isolated software features.
+I do not treat AI as a small feature added at the end.
 
-I build systems that connect:
+I design systems where AI, data, automation, and product workflows work together:
 
-**Business understanding + AI + automation + scalable engineering**
+```text
+Business problem
+    -> Data and workflow design
+    -> AI-assisted automation
+    -> Scalable software system
+    -> Measurable operational value
+```
 
-That means thinking through the full workflow: where data comes from, how it is processed, how teams use it, how the system scales, and how the output creates value for the business.
+## Portfolio Positioning
 
-## Currently Building
-
-- AI commerce automation platforms.
-- Product intelligence and opportunity scoring systems.
-- Automated product content and image workflows.
-- Business workflow automation for e-commerce and industrial teams.
-
-## GitHub Portfolio Focus
-
-My public repositories are product showcases, not source-code dumps. The goal is to communicate product value, architecture, and engineering judgment while keeping production code, credentials, customer data, and proprietary workflows private.
+Most of my strongest work is private production software. Public repositories here are structured as **product showcases**: they explain the business value, architecture, workflows, and selected safe code without exposing credentials, customer data, internal algorithms, or production source code.
 
 ## Contact
 
-- LinkedIn: `your-linkedin-url`
-- Portfolio: `your-portfolio-url`
-- Email: `your-email@example.com`
+- GitHub: [@bvbvbv54](https://github.com/bvbvbv54)
+- Organization: [MAD-AUTOMOTIVES](https://github.com/MAD-AUTOMOTIVES)
 
-If you are building an AI-powered commerce, automation, or industrial workflow product, I am open to technical collaboration, client projects, and product-focused engineering work.
+Open to technical collaboration, client projects, and product-focused AI automation work.
