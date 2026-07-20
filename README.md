@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/bvbvbv54/MarketForge-AI"><img src="https://img.shields.io/badge/Focus-AI%20Commerce%20Automation-0f766e" alt="AI Commerce Automation"></a>
   <a href="https://github.com/MAD-AUTOMOTIVES"><img src="https://img.shields.io/badge/Industrial-MAD%20Automotives-1d4ed8" alt="MAD Automotives"></a>
+  <a href="https://github.com/bvbvbv54/TeleMedia-AI"><img src="https://img.shields.io/badge/Open%20Source-TeleMedia%20AI-7c3aed" alt="TeleMedia AI"></a>
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Docker-111827" alt="Stack">
 </p>
 
@@ -20,6 +21,7 @@ My work sits at the intersection of **AI automation**, **e-commerce systems**, *
 | --- | --- | --- |
 | [MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI) | AI commerce intelligence platform | Helps sellers research products, analyze demand, plan visuals, generate listing content, and prepare export-ready product packages |
 | [MAD](https://github.com/MAD-AUTOMOTIVES/MAD) | AI-powered automotive commerce platform | Helps an automotive lighting manufacturer manage catalog operations, B2B workflows, product images, and digital commerce |
+| [TeleMedia AI](https://github.com/bvbvbv54/TeleMedia-AI) | Open-source Telegram media automation stack | Shows AI intent parsing, FastAPI orchestration, n8n workflows, Docker services, Redis queues, PostgreSQL, and autoscaled workers |
 | [CTF Walkthroughs](https://github.com/bvbvbv54/ctf-walkthrough) | Security learning notes | Shows structured enumeration, technical reporting, and security awareness |
 
 ## What I Build
@@ -61,6 +63,7 @@ My work sits at the intersection of **AI automation**, **e-commerce systems**, *
 ## Current Focus
 
 - Turning MarketForge AI into a stronger AI commerce SaaS product.
+- Maintaining TeleMedia AI as a public open-source automation contribution.
 - Building public portfolio showcases for production-grade private systems.
 - Improving product demos, screenshots, and technical case studies.
 - Keeping proprietary code private while making product value visible.
