@@ -1,84 +1,81 @@
 <div align="center">
   <img src="./assets/profile-banner.svg" alt="AI systems architecture: models, knowledge, agents, and products" width="100%" />
 
-# AI Automation & Agent Developer
+# 👋 Hi, I'm E. Habib
 
-**I build AI systems that connect models, business data, APIs, and dependable software workflows.**
+## 🤖 AI Automation & Agent Developer
 
-`AI agents` · `RAG` · `Voice AI` · `Python` · `FastAPI` · `LangChain` · `full-stack AI SaaS`
+**AI Agents · RAG · Voice AI · Python · FastAPI · LangChain · AI SaaS**
 
-[Explore projects](#featured-systems) · [Engineering activity](#engineering-activity) · [GitHub](https://github.com/bvbvbv54)
+I build practical AI-powered applications and automation products with Python, APIs, databases, web interfaces, and Docker. My work focuses on turning useful AI capabilities into software people can actually use.
+
 </div>
 
-## Systems I Build
+## 👨‍💻 About Me
 
-| Area | From capability to product |
-| --- | --- |
-| **AI agents & workflows** | Tool-aware systems that coordinate APIs, data, and repeatable business steps. |
-| **RAG & knowledge systems** | Retrieval and evidence paths that give language models relevant context. |
-| **AI research automation** | Data collection, scoring, classification, reporting, and human-visible controls. |
-| **AI-enabled SaaS** | Backend services, workers, databases, interfaces, and deployment-aware architecture. |
+- 🔭 Building AI-powered SaaS and automation projects.
+- 🤖 Focused on AI agents, RAG applications, Voice AI, and LLM integrations.
+- 🐍 Building backend services and APIs mainly with Python and FastAPI.
+- 🌐 Comfortable working across backend, databases, frontend, workers, and Docker.
+- 🚀 Interested in turning repetitive business processes into useful AI software.
 
-## Current Focus
+## 🚀 What I Build
 
-- Building production-minded agent and automation workflows around real APIs and data.
-- Improving retrieval quality, evidence capture, and evaluation paths for AI systems.
-- Designing Python services and worker-based pipelines that can pause, resume, and recover.
-- Delivering practical AI product surfaces rather than isolated model demos.
+- 🤖 **AI Agents** — assistants that use tools, APIs, databases, and business workflows.
+- 🔎 **RAG Applications** — AI assistants grounded in documents, private knowledge, and search.
+- 🎙️ **Voice AI** — voice applications combining speech-to-text, LLMs, tools, and text-to-speech.
+- ⚙️ **AI Automation** — workflows for content, research, data processing, and business operations.
+- 🌐 **AI SaaS Products** — full-stack products combining AI features, backend services, databases, and deployment.
 
-## Engineering Stack
+## 🧰 Tech Toolbox
 
-**AI systems**
+### AI & Automation
 
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-0f172a?style=flat-square&logo=openai&logoColor=67e8f9) ![AI agents](https://img.shields.io/badge/AI_agents-0f172a?style=flat-square&logo=semanticweb&logoColor=67e8f9) ![RAG](https://img.shields.io/badge/RAG-0f172a?style=flat-square&logo=databricks&logoColor=67e8f9) ![Computer vision](https://img.shields.io/badge/AI_vision-0f172a?style=flat-square&logo=opencv&logoColor=67e8f9)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logo=probot&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white) ![Voice AI](https://img.shields.io/badge/Voice_AI-111827?style=flat-square&logo=livechat&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Backend & automation**
+### Languages & Frameworks
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=67e8f9) ![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=chainlink&logoColor=67e8f9) ![Voice AI](https://img.shields.io/badge/Voice_AI-0f172a?style=flat-square&logo=livechat&logoColor=67e8f9)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=67e8f9) ![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=67e8f9) ![Browser automation](https://img.shields.io/badge/browser_automation-0f172a?style=flat-square&logo=selenium&logoColor=67e8f9) ![Workers](https://img.shields.io/badge/background_workers-0f172a?style=flat-square&logo=task&logoColor=67e8f9)
+### Data & Infrastructure
 
-**Data & infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=67e8f9) ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=67e8f9) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=67e8f9)
+## 🔥 Featured Projects
 
-*The stack above is limited to technology supported by the public Aurora repository and this profile package; other projects may add technologies after their public documentation is reviewed.*
+### 📺 TeleMedia — AI Social Media Automation SaaS
 
-## Featured Systems
+**Tech:** AI automation · Python · APIs · TTS · media workflows · Docker
 
-### [Aurora](https://github.com/bvbvbv54/Aurora) — evidence-first research automation
+AI-powered social media automation platform designed to automate content generation, media processing, scheduling, and publishing workflows across multiple platforms. The system combines AI generation, voice/media processing, APIs, scheduling, backend services, databases, and containerized infrastructure.
 
-`Python` `SQLite` `browser automation` `AI classification` `Docker`
+The public repository contains the project showcase; the active application is maintained privately.
 
-A resumable YouTube keyword-research pipeline that collects observable evidence, classifies visual inputs, scores opportunities, and produces reports. Its architecture includes persisted stages, a supervised browser-worker fleet, checkpoints, bounded retries, and explicit degraded-mode behavior—an example of automation built as an operating system, not a one-off script.
+[🔗 View TeleMedia AI](https://github.com/bvbvbv54/TeleMedia-AI)
 
-### [TeleMedia AI](https://github.com/bvbvbv54/TeleMedia-AI) — AI social-media automation showcase
+### 🔎 Aurora — AI-Powered Research Automation
 
-`AI automation` `SaaS` `workflows`
+**Tech:** Python · AI · browser automation · SQLite · Docker
 
-A public project archive/showcase for an AI social-media automation SaaS. The active implementation is maintained privately; this profile intentionally does not represent the public repository as the complete runnable SaaS.
+Python-based research automation platform that collects and analyzes YouTube search data to identify content opportunities using evidence, scoring, and AI-assisted classification. It includes resumable workers, browser automation, SQLite persistence, reporting, and failure recovery.
 
-### [MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI) — AI commerce intelligence
+[🔗 View Aurora](https://github.com/bvbvbv54/Aurora)
 
-`AI product` `commerce intelligence` `automation`
+### 🛒 MarketForge AI — AI Commerce Intelligence Platform
 
-An AI commerce-intelligence project selected for its product and automation positioning. Its public README should remain the source of truth for stack and implementation details; this summary deliberately avoids claims not verified in the repository documentation during this profile build.
+**Tech:** Python · FastAPI · Next.js · PostgreSQL · Redis · Docker
 
-## How I Think About AI Systems
+AI-powered commerce platform designed to help sellers research products, analyze opportunities, generate product content, plan AI visuals, and prepare marketplace-ready product packages. It demonstrates AI automation, backend services, a modern web dashboard, background processing, and structured product-intelligence workflows.
 
-```mermaid
-flowchart LR
-    U[User or business process] --> A[AI agent / orchestration]
-    A --> K[Knowledge and retrieval]
-    A --> T[Tools and APIs]
-    K --> D[(Data store)]
-    T --> S[Backend services / workers]
-    D --> P[Product experience]
-    S --> P
-    P --> O[Observable, deployable workflow]
-```
+[🔗 View MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI)
 
-A useful AI feature needs more than a model call: grounded context, controlled tools, durable state, and an application path that people can operate.
+## 🌐 Let's Connect
+
+- [GitHub](https://github.com/bvbvbv54)
+- [Upwork](https://www.upwork.com/freelancers/~01bc2f92b57edf3b9d)
+- [MAD Automotives](https://github.com/MAD-AUTOMOTIVES)
+
+Open to AI automation, agent, RAG, Voice AI, AI SaaS, and backend/API projects.
 
 ## Engineering Activity
 
@@ -87,10 +84,3 @@ A useful AI feature needs more than a model call: grounded context, controlled t
 </div>
 
 The skyline is generated from GitHub contribution data by a scheduled workflow in this repository. It is refreshed weekly and can be regenerated on demand. The native GitHub contribution calendar remains untouched.
-
-## Let's Build
-
-If you need an AI agent, retrieval-backed knowledge system, workflow automation, or an AI product that connects to real services and data, explore the projects above or reach me through [GitHub](https://github.com/bvbvbv54).
-
-
-
