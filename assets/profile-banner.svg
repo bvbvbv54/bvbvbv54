@@ -52,7 +52,7 @@
       </g>
     </g>
 
-    <g transform="translate(735 36)">
+    <g transform="translate(735 12)">
       <path d="M205 124L90 62M205 124L348 62M205 124L90 210M205 124L348 210" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.6"/>
       <path d="M90 62V210M348 62V210" fill="none" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.2" stroke-dasharray="5 7"/>
 
