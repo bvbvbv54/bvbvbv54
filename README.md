@@ -69,13 +69,24 @@ AI-powered commerce platform designed to help sellers research products, analyze
 
 [🔗 View MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI)
 
+## 🎓 Certifications & Security
+
+[![Google AI Fundamentals](https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/8ISNQOZ17JOE) [![Google System Administration](https://img.shields.io/badge/Google-System_Administration-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/9de310040034c0f84e3d543cd4bf3b6c) [![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/badge/f27c9399-319d-4411-bd6f-6f49b5673aba)
+
+- **Google AI Fundamentals** — completed through Coursera.
+- **System Administration and IT Infrastructure Services** — completed through Google/Coursera, covering server, network, operating-system, and cloud administration.
+- **Ethical Hacker** — Cisco Networking Academy certificate, with a verified Credly badge.
+- **Next:** preparing for the **Red Hat Certified System Administrator (RHCSA)** exam.
+
+I am building toward a career where **security, system administration, and AI work together**. In an authorized internal security assessment for MAD, I helped identify and address a sensitive document-access weakness; the detailed findings remain confidential.
+
 ## 🌐 Let's Connect
 
-- [GitHub](https://github.com/bvbvbv54)
-- [Upwork](https://www.upwork.com/freelancers/~01bc2f92b57edf3b9d)
-- [MAD Automotives](https://github.com/MAD-AUTOMOTIVES)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elkatebhabib/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elkatebhabib/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bvbvbv54) [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bc2f92b57edf3b9d)
 
-Open to AI automation, agent, RAG, Voice AI, AI SaaS, and backend/API projects.
+[![Simracing — skullzedits](https://img.shields.io/badge/Simracing_Instagram-skullzedits-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skullzedits/) [![MAD Automotives](https://img.shields.io/badge/MAD_Automotives-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/MAD-AUTOMOTIVES)
+
+Open to AI automation, agent, RAG, Voice AI, AI SaaS, backend/API, and security-focused systems work.
 
 ## Engineering Activity
 
@@ -84,3 +95,4 @@ Open to AI automation, agent, RAG, Voice AI, AI SaaS, and backend/API projects.
 </div>
 
 The skyline is generated from GitHub contribution data by a scheduled workflow in this repository. It is refreshed weekly and can be regenerated on demand. The native GitHub contribution calendar remains untouched.
+
