@@ -26,6 +26,12 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 100
 
+      - name: Correct language donut using code composition
+        run: python .github/scripts/profile_language_donut.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GITHUB_OWNER: ${{ github.repository_owner }}
+
       - name: Commit generated SVGs
         run: |
           git config user.name "github-actions[bot]"
