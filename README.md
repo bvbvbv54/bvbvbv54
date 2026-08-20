@@ -1,94 +1,96 @@
-<h1 align="center">E. Habib</h1>
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="AI systems architecture: models, knowledge, agents, and products" width="100%" />
 
-<p align="center">
-  <strong>AI Automation Engineer building e-commerce intelligence and industrial workflow systems.</strong>
-</p>
+# AI Automation & Agent Developer
 
-<p align="center">
-  <a href="https://github.com/bvbvbv54/MarketForge-AI"><img src="https://img.shields.io/badge/Focus-AI%20Commerce%20Automation-0f766e" alt="AI Commerce Automation"></a>
-  <a href="https://github.com/MAD-AUTOMOTIVES"><img src="https://img.shields.io/badge/Industrial-MAD%20Automotives-1d4ed8" alt="MAD Automotives"></a>
-  <a href="https://github.com/bvbvbv54/TeleMedia-AI"><img src="https://img.shields.io/badge/Open%20Source-TeleMedia%20AI-7c3aed" alt="TeleMedia AI"></a>
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Docker-111827" alt="Stack">
-</p>
+**I build AI systems that connect models, business data, APIs, and dependable software workflows.**
 
-I build production-grade AI systems that help businesses automate product research, product content, image workflows, catalog operations, and internal decision-making.
+`AI agents` · `RAG` · `Voice AI` · `Python` · `FastAPI` · `LangChain` · `full-stack AI SaaS`
 
-My work sits at the intersection of **AI automation**, **e-commerce systems**, **computer vision**, and **full-stack software engineering**.
+[Explore projects](#featured-systems) · [Engineering activity](#engineering-activity) · [GitHub](https://github.com/bvbvbv54)
+</div>
 
-## Featured Product Work
+## Systems I Build
 
-| Project | What It Is | Business Value |
-| --- | --- | --- |
-| [MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI) | AI commerce intelligence platform | Helps sellers research products, analyze demand, plan visuals, generate listing content, and prepare export-ready product packages |
-| [MAD](https://github.com/MAD-AUTOMOTIVES/MAD) | AI-powered automotive commerce platform | Helps an automotive lighting manufacturer manage catalog operations, B2B workflows, product images, and digital commerce |
-| [TeleMedia AI](https://github.com/bvbvbv54/TeleMedia-AI) | Open-source Telegram media automation stack | Shows AI intent parsing, FastAPI orchestration, n8n workflows, Docker services, Redis queues, PostgreSQL, and autoscaled workers |
-| [CTF Walkthroughs](https://github.com/bvbvbv54/ctf-walkthrough) | Security learning notes | Shows structured enumeration, technical reporting, and security awareness |
-
-## What I Build
-
-### AI Automation
-
-- AI-assisted business workflows.
-- Product image processing and generation.
-- Computer vision pipelines.
-- AI content and metadata generation.
-- Intelligent background processing systems.
-
-### E-commerce Intelligence
-
-- Product research and opportunity scoring.
-- Keyword and competitor analysis.
-- Listing automation for marketplaces.
-- Product package exports for selling channels.
-- Regional audience targeting workflows.
-
-### Software Engineering
-
-- Backend APIs and worker systems.
-- Full-stack dashboards.
-- Cloud-ready deployments.
-- PostgreSQL and Redis-backed applications.
-- Dockerized production environments.
-
-## Technology Stack
-
-| Area | Tools |
+| Area | From capability to product |
 | --- | --- |
-| Languages | Python, TypeScript, JavaScript |
-| Backend | FastAPI, Node.js, REST APIs, Celery workers |
-| Frontend | Next.js, React, dashboard UI |
-| AI | LLM APIs, computer vision, image generation, automation pipelines |
-| Data & Infra | PostgreSQL, Redis, Docker, cloud storage |
+| **AI agents & workflows** | Tool-aware systems that coordinate APIs, data, and repeatable business steps. |
+| **RAG & knowledge systems** | Retrieval and evidence paths that give language models relevant context. |
+| **AI research automation** | Data collection, scoring, classification, reporting, and human-visible controls. |
+| **AI-enabled SaaS** | Backend services, workers, databases, interfaces, and deployment-aware architecture. |
 
 ## Current Focus
 
-- Turning MarketForge AI into a stronger AI commerce SaaS product.
-- Maintaining TeleMedia AI as a public open-source automation contribution.
-- Building public portfolio showcases for production-grade private systems.
-- Improving product demos, screenshots, and technical case studies.
-- Keeping proprietary code private while making product value visible.
+- Building production-minded agent and automation workflows around real APIs and data.
+- Improving retrieval quality, evidence capture, and evaluation paths for AI systems.
+- Designing Python services and worker-based pipelines that can pause, resume, and recover.
+- Delivering practical AI product surfaces rather than isolated model demos.
 
-## My Approach
+## Engineering Stack
 
-I do not treat AI as a small feature added at the end.
+**AI systems**
 
-I design systems where AI, data, automation, and product workflows work together:
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-0f172a?style=flat-square&logo=openai&logoColor=67e8f9) ![AI agents](https://img.shields.io/badge/AI_agents-0f172a?style=flat-square&logo=semanticweb&logoColor=67e8f9) ![RAG](https://img.shields.io/badge/RAG-0f172a?style=flat-square&logo=databricks&logoColor=67e8f9) ![Computer vision](https://img.shields.io/badge/AI_vision-0f172a?style=flat-square&logo=opencv&logoColor=67e8f9)
 
-```text
-Business problem
-    -> Data and workflow design
-    -> AI-assisted automation
-    -> Scalable software system
-    -> Measurable operational value
+**Backend & automation**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=67e8f9) ![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=chainlink&logoColor=67e8f9) ![Voice AI](https://img.shields.io/badge/Voice_AI-0f172a?style=flat-square&logo=livechat&logoColor=67e8f9)
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=67e8f9) ![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=67e8f9) ![Browser automation](https://img.shields.io/badge/browser_automation-0f172a?style=flat-square&logo=selenium&logoColor=67e8f9) ![Workers](https://img.shields.io/badge/background_workers-0f172a?style=flat-square&logo=task&logoColor=67e8f9)
+
+**Data & infrastructure**
+
+![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=67e8f9) ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=67e8f9) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=67e8f9)
+
+*The stack above is limited to technology supported by the public Aurora repository and this profile package; other projects may add technologies after their public documentation is reviewed.*
+
+## Featured Systems
+
+### [Aurora](https://github.com/bvbvbv54/Aurora) — evidence-first research automation
+
+`Python` `SQLite` `browser automation` `AI classification` `Docker`
+
+A resumable YouTube keyword-research pipeline that collects observable evidence, classifies visual inputs, scores opportunities, and produces reports. Its architecture includes persisted stages, a supervised browser-worker fleet, checkpoints, bounded retries, and explicit degraded-mode behavior—an example of automation built as an operating system, not a one-off script.
+
+### [TeleMedia AI](https://github.com/bvbvbv54/TeleMedia-AI) — AI social-media automation showcase
+
+`AI automation` `SaaS` `workflows`
+
+A public project archive/showcase for an AI social-media automation SaaS. The active implementation is maintained privately; this profile intentionally does not represent the public repository as the complete runnable SaaS.
+
+### [MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI) — AI commerce intelligence
+
+`AI product` `commerce intelligence` `automation`
+
+An AI commerce-intelligence project selected for its product and automation positioning. Its public README should remain the source of truth for stack and implementation details; this summary deliberately avoids claims not verified in the repository documentation during this profile build.
+
+## How I Think About AI Systems
+
+```mermaid
+flowchart LR
+    U[User or business process] --> A[AI agent / orchestration]
+    A --> K[Knowledge and retrieval]
+    A --> T[Tools and APIs]
+    K --> D[(Data store)]
+    T --> S[Backend services / workers]
+    D --> P[Product experience]
+    S --> P
+    P --> O[Observable, deployable workflow]
 ```
 
-## Portfolio Positioning
+A useful AI feature needs more than a model call: grounded context, controlled tools, durable state, and an application path that people can operate.
 
-Most of my strongest work is private production software. Public repositories here are structured as **product showcases**: they explain the business value, architecture, workflows, and selected safe code without exposing credentials, customer data, internal algorithms, or production source code.
+## Engineering Activity
 
-## Contact
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution skyline, generated from real activity" width="100%" />
+</div>
 
-- GitHub: [@bvbvbv54](https://github.com/bvbvbv54)
-- Organization: [MAD-AUTOMOTIVES](https://github.com/MAD-AUTOMOTIVES)
+The skyline is generated from GitHub contribution data by a scheduled workflow in this repository. It is refreshed weekly and can be regenerated on demand. The native GitHub contribution calendar remains untouched.
 
-Open to technical collaboration, client projects, and product-focused AI automation work.
+## Let's Build
+
+If you need an AI agent, retrieval-backed knowledge system, workflow automation, or an AI product that connects to real services and data, explore the projects above or reach me through [GitHub](https://github.com/bvbvbv54).
+
+
+
