@@ -141,6 +141,9 @@ def build_donut(languages: list[tuple[str, int, str]]) -> str:
         '<g transform="translate(273, 0)">'
         + "".join(legend)
         + '</g><g transform="translate(130, 130)">'
+        + '<animateTransform id="language-donut-rotation" attributeName="transform" '
+        + 'type="rotate" from="0 0 0" to="360 0 0" begin="3s" dur="24s" '
+        + 'calcMode="linear" repeatCount="indefinite" additive="sum"></animateTransform>'
         + "".join(paths)
         + '</g></g>'
     )
