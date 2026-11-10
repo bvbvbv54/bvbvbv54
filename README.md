@@ -1,25 +1,28 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Web scraping, browser automation, data extraction, and AI-ready workflows" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Web Scraper Specialist with AI System Integrations — mass data scraping, data pipelines, and infrastructure" width="100%" />
 
 # 👋 Hi, I'm E. Habib
 
-## 🤖 AI Automation & Agent Developer
+## 🕸️ Web Scraper Specialist
 
-**AI Agents · RAG · Voice AI · Python · FastAPI · LangChain · AI SaaS**
+**Web Scraping · Mass Data Scraping · AI System Integrations · Python · FastAPI · Data Pipelines**
 
-I build practical AI-powered applications and automation products with Python, APIs, databases, web interfaces, and Docker. My work focuses on turning useful AI capabilities into software people can actually use.
+I build large-scale web crawling and data extraction systems that turn authorized public and business data into structured, useful datasets. I also build AI systems that enrich, classify, search, and automate workflows around that data.
 
 </div>
 
 ## 👨‍💻 About Me
 
-- 🔭 Building AI-powered SaaS and automation projects.
-- 🤖 Focused on AI agents, RAG applications, Voice AI, and LLM integrations.
-- 🐍 Building backend services and APIs mainly with Python and FastAPI.
+- 🔭 Building web crawling and data platforms alongside AI-powered automation.
+- 🕸️ Focused on scraping from authorized sources, structured extraction, and AI system integrations.
+- 🐍 Building data collection services and backend APIs mainly with Python and FastAPI.
 - 🌐 Comfortable working across backend, databases, frontend, workers, and Docker.
-- 🚀 Interested in turning repetitive business processes into useful AI software.
+- 🚀 Interested in turning web data and AI into dependable products and useful automation.
 
 ## 🚀 What I Build
+
+- 🕸️ **Web Scraping & Crawling** — authorized collection from public and approved sources, structured extraction, and reliable delivery.
+- 📦 **Mass Data Scraping** — scale-aware collection, cleaning, normalization, and export pipelines for research and product intelligence.
 
 - 🤖 **AI Agents** — assistants that use tools, APIs, databases, and business workflows.
 - 🔎 **RAG Applications** — AI assistants grounded in documents, private knowledge, and search.
@@ -33,13 +36,18 @@ I build practical AI-powered applications and automation products with Python, A
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logo=probot&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white) ![Voice AI](https://img.shields.io/badge/Voice_AI-111827?style=flat-square&logo=livechat&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+### Web Crawling & Data
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Data & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 
 ## 🔥 Featured Projects
 
@@ -47,7 +55,7 @@ I build practical AI-powered applications and automation products with Python, A
 
 **Tech:** AI automation · Python · APIs · TTS · media workflows · Docker
 
-AI-powered social media automation platform designed to automate content generation, media processing, scheduling, and publishing workflows across multiple platforms. The system combines AI generation, voice/media processing, APIs, scheduling, backend services, databases, and containerized infrastructure.
+AI-powered content automation platform for media creation and publishing. It combines AI-assisted content generation with voice and media processing, scheduling, platform APIs, backend services, databases, and containerized infrastructure.
 
 The public repository contains the project showcase; the active application is maintained privately.
 
@@ -55,17 +63,17 @@ The public repository contains the project showcase; the active application is m
 
 ### 🔎 Aurora — AI-Powered Research Automation
 
-**Tech:** Python · AI · browser automation · SQLite · Docker
+**Tech:** Web scraping · Python · browser automation · AI classification · SQLite · Docker
 
-Python-based research automation platform that collects and analyzes YouTube search data to identify content opportunities using evidence, scoring, and AI-assisted classification. It includes resumable workers, browser automation, SQLite persistence, reporting, and failure recovery.
+Research data-collection platform that crawls YouTube search results, structures and scores the records, then applies AI-assisted classification to identify content opportunities. It includes resumable browser-automation workers, SQLite persistence, reporting, and failure recovery.
 
 [🔗 View Aurora](https://github.com/bvbvbv54/Aurora)
 
 ### 🛒 MarketForge AI — AI Commerce Intelligence Platform
 
-**Tech:** Python · FastAPI · Next.js · PostgreSQL · Redis · Docker
+**Tech:** Web scraping · Python · FastAPI · Next.js · PostgreSQL · Redis · Docker
 
-AI-powered commerce platform designed to help sellers research products, analyze opportunities, generate product content, plan AI visuals, and prepare marketplace-ready product packages. It demonstrates AI automation, backend services, a modern web dashboard, background processing, and structured product-intelligence workflows.
+Commerce-intelligence platform that combines product and marketplace data collection with AI-assisted opportunity analysis. It turns collected product signals into structured research, product content, visual plans, and marketplace-ready exports, supported by backend APIs, background processing, and a web dashboard.
 
 [🔗 View MarketForge AI](https://github.com/bvbvbv54/MarketForge-AI)
 
@@ -86,7 +94,7 @@ I am building toward a career where **security, system administration, and AI wo
 
 [![Simracing — skullzedits](https://img.shields.io/badge/Simracing_Instagram-skullzedits-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skullzedits/) [![MAD Automotives](https://img.shields.io/badge/MAD_Automotives-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/MAD-AUTOMOTIVES)
 
-Open to AI automation, agent, RAG, Voice AI, AI SaaS, backend/API, and security-focused systems work.
+Open to web scraping, data collection, AI system integrations, APIs, and backend automation projects.
 
 ## Engineering Activity
 
@@ -94,5 +102,5 @@ Open to AI automation, agent, RAG, Voice AI, AI SaaS, backend/API, and security-
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution skyline, generated from real activity" width="100%" />
 </div>
 
-The skyline is generated from GitHub contribution data by a scheduled workflow in this repository. It is refreshed weekly and can be regenerated on demand. The native GitHub contribution calendar remains untouched.
+The skyline is generated from GitHub contribution data by a scheduled workflow in this repository. It refreshes daily and can also be regenerated on demand. The native GitHub contribution calendar remains untouched.
 

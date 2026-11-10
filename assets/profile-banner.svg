@@ -1,95 +1,137 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">E. Habib — Web Scraping Specialist</title>
-  <desc id="desc">Web scraping, browser automation, structured data pipelines, and AI-ready workflows.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">E. Habib — Web Scraper Specialist with AI System Integrations</title>
+  <desc id="desc">Mass data scraping from authorized sources, web crawling, AI integrations, data pipelines, and reliable infrastructure.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071525"/>
-      <stop offset="0.58" stop-color="#0A2340"/>
-      <stop offset="1" stop-color="#0D3150"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020B13"/>
+      <stop offset=".55" stop-color="#041626"/>
+      <stop offset="1" stop-color="#06243A"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#45D6FF"/>
-      <stop offset="1" stop-color="#8BE9C1"/>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00C8F5"/>
+      <stop offset="1" stop-color="#57E5FF"/>
     </linearGradient>
-    <radialGradient id="glow" cx="82%" cy="46%" r="58%">
-      <stop stop-color="#1AA7D8" stop-opacity=".23"/>
-      <stop offset="1" stop-color="#1AA7D8" stop-opacity="0"/>
+    <radialGradient id="glow" cx="74%" cy="48%" r="62%">
+      <stop stop-color="#007FA8" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#007FA8" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#7DD3FC" stroke-opacity=".055"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#26C9F6" stroke-opacity=".075"/>
     </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
-  <path d="M1 1H1199M1 319H1199" stroke="#65D9F3" stroke-opacity=".28"/>
-  <path d="M660 36V284" stroke="#6BB7D5" stroke-opacity=".18" stroke-dasharray="3 8"/>
+
+  <rect width="1600" height="520" rx="28" fill="url(#background)"/>
+  <rect width="1600" height="520" rx="28" fill="url(#grid)"/>
+  <rect width="1600" height="520" rx="28" fill="url(#glow)"/>
+  <rect x="8" y="8" width="1584" height="504" rx="24" fill="none" stroke="#00BDEB" stroke-opacity=".42"/>
+  <path d="M0 472C180 438 270 520 460 484S760 456 920 492 1210 526 1600 450" fill="none" stroke="#05BFEF" stroke-opacity=".22"/>
+  <path d="M0 486C220 450 280 528 505 490S810 464 980 502 1280 530 1600 466" fill="none" stroke="#05BFEF" stroke-opacity=".14"/>
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <g transform="translate(58 48)">
-      <rect width="218" height="30" rx="15" fill="#0C3150" stroke="#45D6FF" stroke-opacity=".48"/>
-      <circle cx="16" cy="15" r="4.5" fill="#63E4C0"/>
-      <text x="30" y="20" fill="#C5F4FF" font-size="12" font-weight="700" letter-spacing="1.15">E. HABIB  /  DATA + AI</text>
+    <g transform="translate(78 72)">
+      <rect width="286" height="38" rx="19" fill="#041C2B" stroke="#00C8F5" stroke-opacity=".72"/>
+      <circle cx="20" cy="19" r="6" fill="#00D7FF" filter="url(#softGlow)"/>
+      <text x="43" y="25" fill="#D8F7FF" font-size="14" font-weight="700" letter-spacing="2">E. HABIB  ·  PORTFOLIO</text>
     </g>
-    <text x="58" y="137" fill="#F4FAFF" font-size="47" font-weight="760" letter-spacing="-1.2">WEB SCRAPING</text>
-    <text x="58" y="188" fill="url(#accent)" font-size="47" font-weight="760" letter-spacing="-1.1">SPECIALIST</text>
-    <text x="60" y="221" fill="#C1D7E8" font-size="16.5" font-weight="450">Reliable web data pipelines for research, automation, and AI.</text>
 
-    <g transform="translate(58 247)" font-size="11" font-weight="700" letter-spacing=".55">
-      <rect width="166" height="31" rx="15.5" fill="#0B2D4A" stroke="#45D6FF" stroke-opacity=".48"/>
-      <text x="83" y="20" fill="#DDF7FF" text-anchor="middle">BROWSER AUTOMATION</text>
-      <rect x="178" width="143" height="31" rx="15.5" fill="#0B2D4A" stroke="#45D6FF" stroke-opacity=".48"/>
-      <text x="249.5" y="20" fill="#DDF7FF" text-anchor="middle">DATA EXTRACTION</text>
-      <rect x="333" width="169" height="31" rx="15.5" fill="#0B2D4A" stroke="#63E4C0" stroke-opacity=".52"/>
-      <text x="417.5" y="20" fill="#DDF7FF" text-anchor="middle">AI-READY PIPELINES</text>
+    <text x="80" y="198" fill="#F6FAFC" font-size="67" font-style="italic" font-weight="800" letter-spacing="-1.8">WEB SCRAPER</text>
+    <text x="80" y="275" fill="url(#cyan)" font-size="72" font-style="italic" font-weight="800" letter-spacing="-1.8">SPECIALIST</text>
+    <text x="472" y="258" fill="#F1FAFF" font-size="25" font-weight="800" letter-spacing=".5">WITH AI</text>
+    <text x="472" y="290" fill="#BBD7E6" font-size="18" font-weight="700" letter-spacing=".7">SYSTEM INTEGRATIONS</text>
+
+    <text x="84" y="337" fill="#C6D8E4" font-size="20">Building robust data extraction systems at scale, powered by AI,</text>
+    <text x="84" y="368" fill="#C6D8E4" font-size="20">automation, and reliable infrastructure.</text>
+    <path d="M84 392H210" stroke="url(#cyan)" stroke-width="4" stroke-linecap="round" filter="url(#softGlow)"/>
+    <path d="M210 392H315" stroke="#0B7192" stroke-width="2" stroke-linecap="round"/>
+
+    <g transform="translate(78 421)" font-size="13" font-weight="700" letter-spacing=".45">
+      <rect width="152" height="36" rx="18" fill="#061D2B" stroke="#05C8F0" stroke-opacity=".65"/>
+      <text x="76" y="23" text-anchor="middle" fill="#E4F9FF">WEB SCRAPING</text>
+      <rect x="164" width="160" height="36" rx="18" fill="#061D2B" stroke="#05C8F0" stroke-opacity=".65"/>
+      <text x="244" y="23" text-anchor="middle" fill="#E4F9FF">AI INTEGRATION</text>
+      <rect x="336" width="151" height="36" rx="18" fill="#061D2B" stroke="#05C8F0" stroke-opacity=".65"/>
+      <text x="411.5" y="23" text-anchor="middle" fill="#E4F9FF">INFRASTRUCTURE</text>
+      <rect x="499" width="144" height="36" rx="18" fill="#061D2B" stroke="#05C8F0" stroke-opacity=".65"/>
+      <text x="571" y="23" text-anchor="middle" fill="#E4F9FF">DATA PIPELINES</text>
+    </g>
+
+    <g fill="none" stroke="url(#cyan)" stroke-width="2" stroke-opacity=".75">
+      <path d="M1052 126H1090Q1110 126 1121 155"/>
+      <path d="M1052 254H1088"/>
+      <path d="M1052 382H1090Q1110 382 1121 353"/>
+      <path d="M1237 155Q1248 126 1267 126H1275"/>
+      <path d="M1240 254H1275"/>
+      <path d="M1237 353Q1248 382 1267 382H1275"/>
+    </g>
+    <g fill="#50E2FF" filter="url(#softGlow)">
+      <circle cx="1090" cy="126" r="4"/><circle cx="1088" cy="254" r="4"/><circle cx="1090" cy="382" r="4"/>
+      <circle cx="1267" cy="126" r="4"/><circle cx="1267" cy="254" r="4"/><circle cx="1267" cy="382" r="4"/>
+    </g>
+
+    <g transform="translate(1135 254)">
+      <circle r="82" fill="#041522" stroke="#05C9F4" stroke-width="2.5"/>
+      <circle r="68" fill="none" stroke="#2BD6FA" stroke-opacity=".34" stroke-dasharray="5 8"/>
+      <circle r="48" fill="#062338" stroke="#22CFF5" stroke-opacity=".72"/>
+      <ellipse rx="20" ry="48" fill="none" stroke="#56DDF7" stroke-opacity=".82" stroke-width="2"/>
+      <path d="M-47 0H47M-37-25H37M-37 25H37" stroke="#56DDF7" stroke-opacity=".7" stroke-width="1.8"/>
+      <path d="M0-48V48" stroke="#56DDF7" stroke-opacity=".5" stroke-width="1.5"/>
+      <circle cx="-29" cy="-14" r="4" fill="#20D7F8"/>
+      <circle cx="20" cy="18" r="4" fill="#20D7F8"/>
+      <circle cx="30" cy="-18" r="3" fill="#20D7F8"/>
+      <text x="0" y="7" text-anchor="middle" fill="#F0FBFF" font-size="12" font-weight="800" letter-spacing="1.5">WEB DATA</text>
     </g>
 
     <g>
-      <path d="M940 159C965 159 966 113 991 113M940 159C965 159 966 203 991 203" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity=".68"/>
-      <circle cx="952" cy="159" r="4" fill="#72E5D2"/>
-      <circle cx="982" cy="113" r="3" fill="#45D6FF"/>
-      <circle cx="982" cy="203" r="3" fill="#8BE9C1"/>
-
-      <g transform="translate(716 70)">
-        <rect width="224" height="180" rx="16" fill="#081B30" stroke="#59CBEA" stroke-opacity=".55"/>
-        <path d="M0 39H224" stroke="#59CBEA" stroke-opacity=".28"/>
-        <circle cx="18" cy="20" r="4" fill="#F87171"/>
-        <circle cx="32" cy="20" r="4" fill="#FBBF24"/>
-        <circle cx="46" cy="20" r="4" fill="#4ADE80"/>
-        <rect x="66" y="11" width="143" height="18" rx="9" fill="#102E49"/>
-        <text x="78" y="24" fill="#9CBBD0" font-size="9.5">shop.example/catalog</text>
-        <text x="17" y="62" fill="#67DDF5" font-size="10" font-weight="700" letter-spacing="1">PAGE PARSER</text>
-        <rect x="17" y="74" width="190" height="1" fill="#34546A"/>
-        <text x="20" y="96" fill="#8BE9C1" font-size="11" font-weight="700">&lt;article&gt;</text>
-        <rect x="93" y="86" width="94" height="7" rx="3.5" fill="#497189" opacity=".82"/>
-        <rect x="38" y="103" width="144" height="6" rx="3" fill="#34546A"/>
-        <text x="20" y="128" fill="#8BE9C1" font-size="11" font-weight="700">price</text>
-        <rect x="67" y="119" width="74" height="14" rx="7" fill="#0E554F"/>
-        <text x="104" y="129" fill="#A5F3D3" font-size="9" font-weight="700" text-anchor="middle">$ 24.90</text>
-        <rect x="20" y="148" width="83" height="18" rx="9" fill="#10314B" stroke="#45D6FF" stroke-opacity=".4"/>
-        <text x="61.5" y="160" fill="#C8EEFA" font-size="9" font-weight="700" text-anchor="middle">EXTRACT</text>
-        <path d="M113 157H148" stroke="#63E4C0" stroke-width="1.6"/>
-        <path d="M144 153L150 157L144 161" fill="none" stroke="#63E4C0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-        <rect x="158" y="148" width="48" height="18" rx="9" fill="#103D4A" stroke="#63E4C0" stroke-opacity=".5"/>
-        <text x="182" y="160" fill="#C6F7E5" font-size="9" font-weight="700" text-anchor="middle">JSON</text>
+      <g transform="translate(775 88)">
+        <rect width="277" height="76" rx="15" fill="#031522" stroke="#00BEEB" stroke-opacity=".78"/>
+        <circle cx="27" cy="38" r="17" fill="#062B3D" stroke="#1BCFF6" stroke-opacity=".75"/>
+        <path d="M19 39H35M27 31V47M21 33L33 45M33 33L21 45" stroke="#59E4FF" stroke-width="1.7" stroke-linecap="round"/>
+        <text x="55" y="31" fill="#F2FAFD" font-size="14" font-weight="800" letter-spacing=".3">MASS DATA SCRAPING</text>
+        <text x="55" y="53" fill="#B5D1DF" font-size="12.5">Authorized sources · clean exports</text>
       </g>
-
-      <g transform="translate(992 82)">
-        <rect width="158" height="62" rx="13" fill="#0A2740" stroke="#45D6FF" stroke-opacity=".48"/>
-        <rect x="12" y="13" width="34" height="34" rx="9" fill="#0E3A55"/>
-        <path d="M21 23H37M21 29H37M21 35H32" stroke="#68DDF6" stroke-width="2" stroke-linecap="round"/>
-        <text x="56" y="28" fill="#DDF7FF" font-size="11" font-weight="700">CLEAN DATA</text>
-        <text x="56" y="43" fill="#94B7CA" font-size="9.5">structured output</text>
+      <g transform="translate(775 216)">
+        <rect width="277" height="76" rx="15" fill="#031522" stroke="#00BEEB" stroke-opacity=".78"/>
+        <circle cx="27" cy="38" r="17" fill="#062B3D" stroke="#1BCFF6" stroke-opacity=".75"/>
+        <path d="M19 31H35V45H19Z M22 35H32M22 39H32" fill="none" stroke="#59E4FF" stroke-width="1.7" stroke-linecap="round"/>
+        <text x="55" y="31" fill="#F2FAFD" font-size="14" font-weight="800" letter-spacing=".3">DATA EXTRACTION</text>
+        <text x="55" y="53" fill="#B5D1DF" font-size="12.5">Parsing · validation · structure</text>
       </g>
-      <g transform="translate(992 172)">
-        <rect width="158" height="62" rx="13" fill="#0A2740" stroke="#63E4C0" stroke-opacity=".5"/>
-        <rect x="12" y="13" width="34" height="34" rx="9" fill="#103D42"/>
-        <circle cx="29" cy="30" r="8" fill="none" stroke="#8BE9C1" stroke-width="1.7"/>
-        <path d="M25 30H33M29 26V34" stroke="#8BE9C1" stroke-width="1.6" stroke-linecap="round"/>
-        <text x="56" y="28" fill="#DDF7FF" font-size="11" font-weight="700">AI WORKFLOWS</text>
-        <text x="56" y="43" fill="#94B7CA" font-size="9.5">research and insight</text>
+      <g transform="translate(775 344)">
+        <rect width="277" height="76" rx="15" fill="#031522" stroke="#00BEEB" stroke-opacity=".78"/>
+        <circle cx="27" cy="38" r="17" fill="#062B3D" stroke="#1BCFF6" stroke-opacity=".75"/>
+        <rect x="18" y="30" width="18" height="6" rx="1.5" fill="none" stroke="#59E4FF" stroke-width="1.7"/>
+        <rect x="18" y="40" width="18" height="6" rx="1.5" fill="none" stroke="#59E4FF" stroke-width="1.7"/>
+        <text x="55" y="31" fill="#F2FAFD" font-size="14" font-weight="800" letter-spacing=".3">INFRASTRUCTURE</text>
+        <text x="55" y="53" fill="#B5D1DF" font-size="12.5">Linux · Docker · VPS · CI/CD</text>
       </g>
-      <text x="716" y="278" fill="#8FB5CA" font-size="10.5" font-weight="700" letter-spacing="1.1">DISCOVER  →  EXTRACT  →  DELIVER</text>
+      <g transform="translate(1275 88)">
+        <rect width="277" height="76" rx="15" fill="#031522" stroke="#00BEEB" stroke-opacity=".78"/>
+        <circle cx="27" cy="38" r="17" fill="#062B3D" stroke="#1BCFF6" stroke-opacity=".75"/>
+        <path d="M18 38H36M27 29V47M21 32L33 44M33 32L21 44" stroke="#59E4FF" stroke-width="1.7" stroke-linecap="round"/>
+        <text x="55" y="31" fill="#F2FAFD" font-size="14" font-weight="800" letter-spacing=".3">AI SYSTEMS</text>
+        <text x="55" y="53" fill="#B5D1DF" font-size="12.5">LLMs · RAG · agents · enrichment</text>
+      </g>
+      <g transform="translate(1275 216)">
+        <rect width="277" height="76" rx="15" fill="#031522" stroke="#00BEEB" stroke-opacity=".78"/>
+        <circle cx="27" cy="38" r="17" fill="#062B3D" stroke="#1BCFF6" stroke-opacity=".75"/>
+        <path d="M19 31H35V45H19Z M22 35H32M22 39H29" fill="none" stroke="#59E4FF" stroke-width="1.7" stroke-linecap="round"/>
+        <text x="55" y="31" fill="#F2FAFD" font-size="14" font-weight="800" letter-spacing=".3">API INTEGRATIONS</text>
+        <text x="55" y="53" fill="#B5D1DF" font-size="12.5">Python · APIs · automation</text>
+      </g>
+      <g transform="translate(1275 344)">
+        <rect width="277" height="76" rx="15" fill="#031522" stroke="#00BEEB" stroke-opacity=".78"/>
+        <circle cx="27" cy="38" r="17" fill="#062B3D" stroke="#1BCFF6" stroke-opacity=".75"/>
+        <path d="M19 45V38M26 45V31M33 45V35" stroke="#59E4FF" stroke-width="3" stroke-linecap="round"/>
+        <text x="55" y="31" fill="#F2FAFD" font-size="14" font-weight="800" letter-spacing=".3">DATA PIPELINES</text>
+        <text x="55" y="53" fill="#B5D1DF" font-size="12.5">Cleaning · enrichment · storage</text>
+      </g>
     </g>
+
+    <path d="M795 474H864M1456 474H1526" stroke="#00C8F5" stroke-width="2" stroke-opacity=".68"/>
+    <text x="1160" y="480" text-anchor="middle" fill="#C6DFEB" font-size="12" font-weight="700" letter-spacing="2">SCRAPE  ·  PROCESS  ·  ENRICH  ·  INTEGRATE  ·  SCALE</text>
   </g>
 </svg>
