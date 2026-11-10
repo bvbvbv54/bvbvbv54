@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Web Scraper Specialist with AI System Integrations — mass data scraping, data pipelines, and infrastructure" width="100%" />
+  <img src="./assets/profile-banner.png" alt="Web Scraper Specialist with AI System Integrations — mass data scraping, data pipelines, and infrastructure" width="100%" />
 
 # 👋 Hi, I'm E. Habib
 
