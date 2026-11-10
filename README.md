@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="AI systems architecture: models, knowledge, agents, and products" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Web scraping, browser automation, data extraction, and AI-ready workflows" width="100%" />
 
 # 👋 Hi, I'm E. Habib
 
